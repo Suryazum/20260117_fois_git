@@ -17,7 +17,7 @@ import HelloWorld from './components/HelloWorld.vue'
 <style scoped>
 .logo {
   height: 10em;
-  padding: 1.5em;
+  padding: 5em;
   will-change: filter;
   transition: filter 300ms;
 }
