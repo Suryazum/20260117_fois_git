@@ -17,9 +17,9 @@ import HelloWorld from './components/HelloWorld.vue'
 <style scoped>
 .logo {
   height: 10em;
-  padding: 5em;
+  padding: 15em;
   will-change: filter;
-  transition: filter 300ms;
+  transition: filter 600ms;
 }
 .logo:hover {
   filter: drop-shadow(0 0 2em #646cffaa);
